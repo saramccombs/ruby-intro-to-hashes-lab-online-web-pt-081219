@@ -1,5 +1,5 @@
 def new_hash
-  monopoly = {}
+  new_hash = {}
 end
 
 def actor
